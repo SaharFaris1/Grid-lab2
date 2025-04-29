@@ -115,7 +115,7 @@ form label {
 }
 form input {
   width: 28vw;
-  height: 2vh;
+  height: 3vh;
   background: #eee;
   border: none;
   border-radius: 25px;
@@ -129,7 +129,7 @@ padding: 6%;
 }
 form > button {
   width: 25vw;
-  height: 6vh;
+  height: 3vh;
   background: #550505;
   color: #fff;
   border-radius: 25px;
@@ -299,7 +299,7 @@ form label {
 }
 form input {
   width: 28vw;
-  height: 6vh;
+  height: 4vh;
   background: #eee;
   border: none;
   border-radius: 25px;
@@ -316,7 +316,7 @@ padding: 6%;
 
 form > button {
   width: 25vw;
-  height: 6vh;
+  height: 4vh;
   background: #550505;
   color: #fff;
   border-radius: 25px;
