@@ -32,6 +32,13 @@
     height: 270vh;
   
   }
+  .button-account{
+    height: 5vh;
+    width: 100vw;
+    display: flex;
+    justify-content: space-around;
+ padding-top: 15%;
+  }
   .item1 {
     height: 45vh;
     width: 90%;
